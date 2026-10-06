@@ -1,0 +1,12 @@
+{
+  "name": "marvel-8bit",
+  "owner": { "name": "Arjun Kulshreshtha" },
+  "description": "A Claude Code mod that swaps the working mark for 8-bit superhero sprites",
+  "plugins": [
+    {
+      "name": "marvel-8bit",
+      "source": "./plugins/marvel-8bit",
+      "description": "Replaces Claude's working mark with 8-bit Marvel superhero sprites"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "marvel-8bit",
+  "version": "0.1.0",
+  "description": "Replaces Claude's working mark with 8-bit Marvel superhero sprites",
+  "types": "./types/index.d.ts"
+}
